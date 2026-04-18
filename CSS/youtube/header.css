@@ -87,7 +87,6 @@
 .right-section .tooltip,
 .upload-icon-container .tooltip,
 .notifications-container .tooltip {
-  font-family: Roboto, Arial;
   position: absolute;
   background-color: gray;
   color: white;
